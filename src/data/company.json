@@ -1,0 +1,283 @@
+{
+  "_id": "",
+  "name": "Frankivsk Space",
+  "lang": "uk",
+  "locale": "uk_UA",
+  "siteUrl": "https://frankivsk-space.github.io",
+  "description": "Ready-made websites, GPT and online discoverability, launch support, and ongoing developer care for Ivano-Frankivsk businesses.",
+  "email": "hello@frankivsk-space.github.io",
+  "phone": "+380 342 000 000",
+  "address": "Ivano-Frankivsk, Ukraine",
+  "mapHref": "https://example.com/frankivsk-space/maps",
+  "region": "Ivano-Frankivsk",
+  "country": "Ukraine",
+  "logo": "logo.png",
+  "defaultSeo": {
+    "title": "Ready-made websites for Ivano-Frankivsk businesses | Frankivsk Space",
+    "description": "Frankivsk Space creates ready-made websites for Ivano-Frankivsk businesses, improves discoverability in GPT and online, and supports launch and monthly updates.",
+    "keywords": [
+      "Frankivsk Space",
+      "Ivano-Frankivsk business websites",
+      "Frankivsk business websites",
+      "ready-made websites",
+      "small business website Ivano-Frankivsk",
+      "restaurant website Frankivsk",
+      "GPT discoverability",
+      "online visibility"
+    ],
+    "author": "Frankivsk Space",
+    "robots": "index, follow",
+    "image": "/assets/og-image.svg",
+    "type": "website",
+    "twitterCard": "summary_large_image"
+  },
+  "pageSeo": {
+    "/": {
+      "title": "Ready-made websites for Ivano-Frankivsk businesses | Frankivsk Space",
+      "description": "Launch a polished business website for Ivano-Frankivsk with fast delivery, strong structure, GPT and search visibility, and ongoing developer support.",
+      "image": "/assets/og-image.svg"
+    },
+    "/our-work": {
+      "title": "Website examples for local businesses | Frankivsk Space",
+      "description": "See sample website directions for cafes, restaurants, hotels, local brands, and service businesses built around clear content and SEO-ready structure.",
+      "image": "/assets/land.jpg"
+    },
+    "/our-team": {
+      "title": "Team behind Frankivsk Space",
+      "description": "Meet the developers and operators behind Frankivsk Space who build, launch, and support ready-made business websites.",
+      "image": "/assets/profile/honchar-denys.jpg"
+    },
+    "/merch": {
+      "title": "Brand merch and add-ons | Frankivsk Space",
+      "description": "Browse Frankivsk Space branded items and extra offer ideas presented with the same fast, content-first website structure.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/cart": {
+      "title": "Cart | Frankivsk Space",
+      "description": "Review selected merch items before checkout.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/sales": {
+      "title": "Offers and launch packages | Frankivsk Space",
+      "description": "Review launch offers, content update packages, and focused website improvements for local businesses in Ivano-Frankivsk.",
+      "image": "/assets/og-image.svg"
+    },
+    "/articles": {
+      "title": "Articles on SEO and discoverability | Frankivsk Space",
+      "description": "Read practical articles on website structure, local SEO, GPT discoverability, and content decisions for small business websites.",
+      "image": "/assets/og-image.svg"
+    },
+    "/reviews": {
+      "title": "Client feedback and trust signals | Frankivsk Space",
+      "description": "See reviews and trust-building proof points around the websites and launch support offered by Frankivsk Space.",
+      "image": "/assets/og-image.svg"
+    },
+    "/events": {
+      "title": "Events and workshops | Frankivsk Space",
+      "description": "Explore workshops, sessions, and business events focused on local websites, content structure, and online visibility.",
+      "image": "/assets/og-image.svg"
+    },
+    "/jobs": {
+      "title": "Jobs at Frankivsk Space",
+      "description": "Open roles for content, frontend, and website delivery work focused on fast marketing sites for local businesses.",
+      "image": "/assets/og-image.svg"
+    },
+    "/faq": {
+      "title": "Frequently asked questions | Frankivsk Space",
+      "description": "Find answers about ready-made websites, launch process, support model, and discoverability work for Ivano-Frankivsk businesses.",
+      "image": "/assets/og-image.svg"
+    },
+    "/faq/agent": {
+      "title": "Agent FAQ | Frankivsk Space",
+      "description": "Internal agent FAQ for the Frankivsk Space project.",
+      "robots": "noindex, follow"
+    },
+    "/faq/developer": {
+      "title": "Developer FAQ | Frankivsk Space",
+      "description": "Internal developer FAQ for the Frankivsk Space project.",
+      "robots": "noindex, follow"
+    },
+    "/navigation": {
+      "title": "Site navigation | Frankivsk Space",
+      "description": "Quick access to the main pages of the Frankivsk Space website.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/socials": {
+      "title": "Contacts and social links | Frankivsk Space",
+      "description": "Reach Frankivsk Space through phone, email, messengers, listings, and social networks from one contact page.",
+      "image": "/assets/logo.png"
+    }
+  },
+  "structuredData": {
+    "type": "ProfessionalService",
+    "addressLocality": "Ivano-Frankivsk",
+    "addressCountry": "UA",
+    "areaServed": "Ivano-Frankivsk",
+    "serviceType": [
+      "Ready-made websites for businesses",
+      "Website launch setup",
+      "Monthly website support",
+      "GPT and online discoverability"
+    ],
+    "sameAs": [
+      "https://example.com/frankivsk-space/instagram",
+      "https://example.com/frankivsk-space/facebook",
+      "https://example.com/frankivsk-space/linkedin"
+    ]
+  },
+  "info": {
+    "eyebrow": "Ready-made websites for Ivano-Frankivsk businesses",
+    "title": "Help your business stand out in Frankivsk, on GPT, and online",
+    "lead": "We prepare a ready website solution, present it clearly, connect your business, and support it every month.",
+    "focus": "Ivano-Frankivsk businesses",
+    "highlights": [
+      "Ready solution",
+      "Fast launch",
+      "Monthly support",
+      "Built by real developers"
+    ],
+    "services": [
+      "Modern website",
+      "Mobile-ready pages",
+      "Visibility on GPT and online",
+      "Admin panel if needed",
+      "Multi-language support",
+      "Hosting and maintenance",
+      "Bug fixes within agreement",
+      "Future feature development"
+    ],
+    "businessCategories": [
+      {
+        "title": "Restaurants & cafes",
+        "description": "Menus, bookings, offers, delivery links, and a polished first impression."
+      },
+      {
+        "title": "Hotels & tourism",
+        "description": "Rooms, local travel context, booking paths, and clear information for visitors."
+      },
+      {
+        "title": "Beauty & wellness",
+        "description": "Services, treatments, trust signals, and simple ways for clients to book."
+      },
+      {
+        "title": "Clinics & professional services",
+        "description": "Clear service pages, credibility, contact details, and practical local visibility."
+      },
+      {
+        "title": "Education & training",
+        "description": "Courses, enrolment paths, schedules, and clear information for parents or learners."
+      },
+      {
+        "title": "Local brands & shops",
+        "description": "Brand story, products, store details, and online trust for local buyers."
+      }
+    ],
+    "benefits": [
+      "Frankivsk-focused business approach",
+      "Ready-made launch model",
+      "Real developers behind the work",
+      "Clear support structure",
+      "Flexible paid improvements",
+      "Transferable project ownership"
+    ]
+  },
+  "socials": [
+    {
+      "label": "Instagram",
+      "value": "@frankivskspace.demo",
+      "href": "https://example.com/frankivsk-space/instagram",
+      "type": "instagram"
+    },
+    {
+      "label": "Facebook",
+      "value": "/frankivskspace.demo",
+      "href": "https://example.com/frankivsk-space/facebook",
+      "type": "facebook"
+    },
+    {
+      "label": "TikTok",
+      "value": "@frankivskspace.demo",
+      "href": "https://example.com/frankivsk-space/tiktok",
+      "type": "tiktok"
+    },
+    {
+      "label": "YouTube",
+      "value": "@frankivskspace-demo",
+      "href": "https://example.com/frankivsk-space/youtube",
+      "type": "youtube"
+    },
+    {
+      "label": "Threads",
+      "value": "@frankivskspace.demo",
+      "href": "https://example.com/frankivsk-space/threads",
+      "type": "threads"
+    },
+    {
+      "label": "X",
+      "value": "@frankivsk_space",
+      "href": "https://example.com/frankivsk-space/x",
+      "type": "x"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Frankivsk Space Demo",
+      "href": "https://example.com/frankivsk-space/linkedin",
+      "type": "linkedin"
+    },
+    {
+      "label": "Pinterest",
+      "value": "frankivsk-space-demo",
+      "href": "https://example.com/frankivsk-space/pinterest",
+      "type": "pinterest"
+    }
+  ],
+  "messengers": [
+    {
+      "label": "Telegram",
+      "value": "@frankivskspace_demo",
+      "href": "https://example.com/frankivsk-space/telegram",
+      "type": "telegram"
+    },
+    {
+      "label": "Viber",
+      "value": "+380 342 000 000",
+      "href": "https://example.com/frankivsk-space/viber",
+      "type": "viber"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "+380 342 000 000",
+      "href": "https://example.com/frankivsk-space/whatsapp",
+      "type": "whatsapp"
+    }
+  ],
+  "listings": [
+    {
+      "label": "Google Business",
+      "value": "Frankivsk Space Demo",
+      "href": "https://example.com/frankivsk-space/google-business",
+      "type": "google-business"
+    },
+    {
+      "label": "Tripadvisor",
+      "value": "Frankivsk Space Demo",
+      "href": "https://example.com/frankivsk-space/tripadvisor",
+      "type": "tripadvisor"
+    },
+    {
+      "label": "Bolt Food",
+      "value": "Delivery",
+      "href": "https://example.com/frankivsk-space/bolt-food",
+      "type": "bolt-food"
+    },
+    {
+      "label": "Glovo",
+      "value": "Delivery",
+      "href": "https://example.com/frankivsk-space/glovo",
+      "type": "glovo"
+    }
+  ]
+}
